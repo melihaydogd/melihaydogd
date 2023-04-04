@@ -12,7 +12,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=melihaydogd&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=melihaydogd&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=melihaydogd&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=melihaydogd&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide=MATLAB)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=melihaydogd&limit=5&theme=dark&combine_all_yearly_contributions=true)
