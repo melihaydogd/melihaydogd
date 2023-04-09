@@ -1,5 +1,5 @@
 # 💫 About Me:
-:slightly_smiling_face: I am a Software Engineer. I graduated from Bogazici University.
+:slightly_smiling_face: I am a Software Engineer. I graduated from Bogazici University in 2022.
 <br>
 :email: Send me an email or add me on Linkedin.
 
